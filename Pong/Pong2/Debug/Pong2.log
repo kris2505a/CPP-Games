@@ -1,0 +1,9 @@
+﻿  Pong2.cpp
+Pong2.obj : error LNK2019: unresolved external symbol __imp__InitWindow referenced in function _main
+Pong2.obj : error LNK2019: unresolved external symbol __imp__WindowShouldClose referenced in function _main
+Pong2.obj : error LNK2019: unresolved external symbol __imp__ClearBackground referenced in function _main
+Pong2.obj : error LNK2019: unresolved external symbol __imp__BeginDrawing referenced in function _main
+Pong2.obj : error LNK2019: unresolved external symbol __imp__EndDrawing referenced in function _main
+Pong2.obj : error LNK2019: unresolved external symbol __imp__DrawCircle referenced in function _main
+C:\vcpkg\packages\raylib_x64-windows\lib\raylib.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\krrri\source\repos\Pong2\Debug\Pong2.exe : fatal error LNK1120: 6 unresolved externals

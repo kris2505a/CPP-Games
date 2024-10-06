@@ -1,0 +1,2 @@
+C:\Users\krrri\source\repos\Pong2\Pong2\x64\Debug\Pong2.vcxproj.CopyComplete
+D:\Raylib Projects\Pong\Pong2\x64\Debug\Pong2.vcxproj.CopyComplete

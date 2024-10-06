@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Pong2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ball.cpp
+D:\Raylib Projects\Pong\Pong2\Ball.cpp(8,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Ball.cpp(8,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Ball.cpp(8,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Ball.cpp(26,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Ball.cpp(27,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+D:\Raylib Projects\Pong\Pong2\Game.cpp(12,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Game.cpp(12,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Game.cpp(13,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Game.cpp(14,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Raylib Projects\Pong\Pong2\Game.cpp(14,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  aiPlatform.cpp
+  main.cpp
+D:\Raylib Projects\Pong\Pong2\main.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Platform.cpp
+  Generating Code...
+  Pong2.vcxproj -> D:\Raylib Projects\Pong\x64\Debug\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
